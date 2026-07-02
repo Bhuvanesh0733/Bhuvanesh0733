@@ -13,39 +13,44 @@
 
 <br/>
 
-```yaml
-about_me:
-  name: "Bhuvanesh A"
-  role: "AI & ML Student | Software Development | Research"
-  location: "Coimbatore, India"
-  education: "MSc Artificial Intelligence & Machine Learning"
-  currently_exploring: ["Machine Learning", "Cybersecurity", "Agentic AI"]
-  fun_fact: "I train models on my laptop and let the fan do the cardio 🌀"
-```
+### 👋 About Me
+
+- 🎓 **Education:** MSc Artificial Intelligence & Machine Learning
+- 📍 **Location:** Coimbatore, India
+- 🔭 **Currently exploring:** Machine Learning, Cybersecurity, Agentic AI
+- 💡 **Fun fact:** I train models on my laptop and let the fan do the cardio 🌀
 
 <br/>
 
 ### 🧰 Tech Stack
 
-<div align="center">
+<table>
+<tr>
+<td valign="top" width="33%">
 
 **Programming**
-<br/>
-<img src="https://skillicons.dev/icons?i=python,java,c,mysql" />
+
+<img src="https://skillicons.dev/icons?i=python,java,c" />
+
+</td>
+<td valign="top" width="33%">
 
 **Machine Learning & Data**
-<br/>
-<img src="https://skillicons.dev/icons?i=py,sklearn,pandas,numpy" />
-<img src="https://img.shields.io/badge/XGBoost-1560bd?style=flat-square"/>
-<img src="https://img.shields.io/badge/LightGBM-00b389?style=flat-square"/>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+
+<img src="https://skillicons.dev/icons?i=py,sklearn" /><br/>
+<img src="https://img.shields.io/badge/XGBoost-1560bd?style=flat-square"/> <img src="https://img.shields.io/badge/LightGBM-00b389?style=flat-square"/> <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+
+</td>
+<td valign="top" width="33%">
 
 **Web & Tools**
-<br/>
-<img src="https://skillicons.dev/icons?i=html,css,js,flask,sqlite,figma,git,github,flutter" />
+
+<img src="https://skillicons.dev/icons?i=html,css,js,flask,sqlite,figma,git,github,flutter" /><br/>
 <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white"/>
 
-</div>
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -119,12 +124,12 @@ A lightweight, clean URL-shortening service with hash-based redirects and basic 
 ### 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Bhuvanesh0733&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhuvanesh0733&theme=tokyonight&hide_border=true" width="48%"/>
+<img src="https://github-stats-extended.vercel.app/api?username=Bhuvanesh0733&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
+<img src="https://streak-stats.demolab.com/?user=Bhuvanesh0733&theme=tokyonight&hide_border=true" width="48%"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhuvanesh0733&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Bhuvanesh0733&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
 </div>
 
 <br/>
