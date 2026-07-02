@@ -1,17 +1,23 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Hi%20👋%20I'm%20Bhuvanesh&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20ML%20Software%20Development%20%7C%20Research&descAlignY=55&descSize=18" width="100%"/>
+# Hi, I'm Bhuvanesh 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=764ABA&center=true&vCenter=true&width=600&lines=MSc+AI+%26+Machine+Learning+Student;Building+ML-powered+web+apps;Turning+data+into+decisions;Always+shipping+something+new" alt="Typing SVG" />
+### AI & ML Student · Software Development · Research
 
-<a href="https://linkedin.com/in/bhuvanesh-a-16321b320"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:bhuvanesh5407@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://bhuvanesh0733.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="https://www.instagram.com/_.bhuvanesh._10_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=764ABA&center=true&vCenter=true&width=550&lines=MSc+AI+%26+Machine+Learning+Student;Building+ML-powered+web+apps;Turning+data+into+decisions;Always+shipping+something+new" alt="Typing SVG" />
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhuvanesh-a-16321b320)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhuvanesh5407@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://bhuvanesh0733.github.io/Portfolio/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_.bhuvanesh._10_)
 
 </div>
 
 <br/>
+
+## 👤 About Me
 
 ```yaml
 about_me:
@@ -20,42 +26,70 @@ about_me:
   location: "Coimbatore, India"
   education: "MSc Artificial Intelligence & Machine Learning"
   currently_exploring: ["Machine Learning", "Cybersecurity", "Agentic AI"]
-  fun_fact: "I train models on my laptop and let the fan do the cardio 🌀"
+  fun_fact: "I train models on my laptop and let the fan do the cardio"
 ```
 
 <br/>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280"/>
-</div>
+## 🧰 Tech Stack
 
-<br/>
-
-### 🧰 Tech Stack
-
-<div align="center">
-
-**Programming**
-<br/>
-<img src="https://skillicons.dev/icons?i=python,java,c,mysql" />
-
-**Machine Learning & Data**
-<br/>
-<img src="https://skillicons.dev/icons?i=py,sklearn,pandas,numpy" />
-<img src="https://img.shields.io/badge/XGBoost-1560bd?style=flat-square"/>
-<img src="https://img.shields.io/badge/LightGBM-00b389?style=flat-square"/>
+<table width="100%">
+<tr>
+<td width="18%"><b>Programming</b></td>
+<td>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+</td>
+</tr>
+<tr>
+<td><b>ML / AI</b></td>
+<td>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/XGBoost-1560BD?style=flat-square"/>
+<img src="https://img.shields.io/badge/LightGBM-00B389?style=flat-square"/>
+<img src="https://img.shields.io/badge/NLP-4B8BBE?style=flat-square"/>
+<img src="https://img.shields.io/badge/Regression_%2F_Classification-6A5ACD?style=flat-square"/>
+</td>
+</tr>
+<tr>
+<td><b>Data & Viz</b></td>
+<td>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-
-**Web & Tools**
-<br/>
-<img src="https://skillicons.dev/icons?i=html,css,js,flask,sqlite,figma,git,github,flutter" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square"/>
+</td>
+</tr>
+<tr>
+<td><b>Web Dev</b></td>
+<td>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white"/>
+</td>
+</tr>
+<tr>
+<td><b>Tools & Platforms</b></td>
+<td>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white"/>
-
-</div>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+</td>
+</tr>
+</table>
 
 <br/>
 
-### 🚀 Featured Projects
+---
+
+## 🚀 Featured Projects
 
 <table>
 <tr>
@@ -122,33 +156,39 @@ A lightweight, clean URL-shortening service with hash-based redirects and basic 
 
 <br/>
 
-### 📊 GitHub Stats
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Bhuvanesh0733&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhuvanesh0733&theme=tokyonight&hide_border=true" width="48%"/>
-</div>
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhuvanesh0733&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Bhuvanesh0733&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhuvanesh0733&theme=tokyonight&hide_border=true" width="49%"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhuvanesh0733&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
+
 </div>
 
 <br/>
 
-### 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/Bhuvanesh0733/Bhuvanesh0733/output/github-contribution-grid-snake.svg" width="100%"/>
 </div>
 
-<br/>
+---
 
-### 🏆 Competitions & Achievements
+## 🏆 Competitions & Achievements
 
-- 🎯 **Smart India Hackathon (SIH) 2025** — Participated at national level
-- 🥉 **Smart Ideation Ideathon (SIH Pre-event)** — 3rd Place
-- 📊 **Kaggle ML Competition** — Predicting BPM of Songs (regression, dimensionality reduction)
-- 📈 **B.A.S.H 8.0** — Statistela Data Analytics Competition
+| | |
+|---|---|
+| 🎯 | **Smart India Hackathon (SIH) 2025** — Participated at national level |
+| 🥉 | **Smart Ideation Ideathon (SIH Pre-event)** — 3rd Place |
+| 📊 | **Kaggle ML Competition** — Predicting BPM of Songs (regression, dimensionality reduction) |
+| 📈 | **B.A.S.H 8.0** — Statistela Data Analytics Competition |
 
 <br/>
 
@@ -156,6 +196,5 @@ A lightweight, clean URL-shortening service with hash-based redirects and basic 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Bhuvanesh0733&color=764ABA&style=for-the-badge)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=100&section=footer" width="100%"/>
-
 </div>
+
