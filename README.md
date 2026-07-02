@@ -123,14 +123,15 @@ A lightweight, clean URL-shortening service with hash-based redirects and basic 
 
 ### 📊 GitHub Stats
 
-<div align="center">
-<img src="https://github-stats-extended.vercel.app/api?username=Bhuvanesh0733&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
-<img src="https://streak-stats.demolab.com/?user=Bhuvanesh0733&theme=tokyonight&hide_border=true" width="48%"/>
-</div>
-
-<div align="center">
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Bhuvanesh0733&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
-</div>
+<table align="center">
+<tr>
+<td><img src="https://github-stats-extended.vercel.app/api?username=Bhuvanesh0733&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&card_width=440" width="440"/></td>
+<td><img src="https://streak-stats.demolab.com/?user=Bhuvanesh0733&theme=tokyonight&hide_border=true&card_width=440" width="440"/></td>
+</tr>
+<tr>
+<td colspan="2" align="center"><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Bhuvanesh0733&layout=donut&theme=tokyonight&hide_border=true&card_width=440" width="440"/></td>
+</tr>
+</table>
 
 <br/>
 
