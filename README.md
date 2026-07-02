@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=180&section=header&text=Bhuvanesh%20A&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20ML%20Software%20Development%20%7C%20Research&descAlignY=55&descSize=16" width="100%"/>
+# Hi 👋 I'm Bhuvanesh
+
+**AI & ML Software Development | Research**
 
 <a href="https://linkedin.com/in/bhuvanesh-a-16321b320"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=bhuvanesh5407@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -11,15 +13,23 @@
 
 <br/>
 
-## About Me
-
-I'm an MSc Artificial Intelligence & Machine Learning student based in Coimbatore, India, focused on building ML-powered applications and turning data into decisions. Currently exploring Machine Learning, Cybersecurity, and Agentic AI.
+```yaml
+about_me:
+  name: "Bhuvanesh A"
+  role: "AI & ML Student | Software Development | Research"
+  location: "Coimbatore, India"
+  education: "MSc Artificial Intelligence & Machine Learning"
+  currently_exploring: ["Machine Learning", "Cybersecurity", "Agentic AI"]
+  fun_fact: "I train models on my laptop and let the fan do the cardio 🌀"
+```
 
 <br/>
 
-## Tech Stack
+### 🧰 Tech Stack
 
-**Languages**
+<div align="center">
+
+**Programming**
 <br/>
 <img src="https://skillicons.dev/icons?i=python,java,c,mysql" />
 
@@ -35,42 +45,104 @@ I'm an MSc Artificial Intelligence & Machine Learning student based in Coimbator
 <img src="https://skillicons.dev/icons?i=html,css,js,flask,sqlite,figma,git,github,flutter" />
 <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white"/>
 
-<br/>
-
-## Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| **[Candida Auris Risk Intelligence System](https://github.com/Bhuvanesh0733/Candida-auris-Risk-Intelligence-using-ML-)** | Hybrid epidemiological–ML framework for ICU-level and individual infection risk assessment, results delivered via a Flutter dashboard. | Python, LightGBM, Flutter |
-| **[Factory Reallocation & Shipping Optimization](https://github.com/Bhuvanesh0733/Factory-Reallocation-Shipping-Optimization-Recommendation-System)** | AI-powered system predicting shipping lead times, simulating factory reassignment scenarios, and clustering distribution patterns for a real distributor. | Python, Machine Learning |
-| **[Cognitive Load Detection via Handwriting](https://github.com/Bhuvanesh0733/Graphology-Inspired-Cognitive-Load-Estimation-System)** | Detects cognitive load (Low/Medium/High) from handwriting images using 15 graphological features extracted with OpenCV, classified via XGBoost. | Python, OpenCV, XGBoost, Flask |
-| **[Network Intrusion Detection System](https://github.com/Bhuvanesh0733/Machine-Learning-Based-Real-Time-Network-Intrusion-Detection-System)** | Real-time ML pipeline classifying live network traffic as benign or malicious, with a dashboard visualizing traffic patterns and model metrics. | Python, Scikit-learn, Data Viz |
-| **[Fitness Guide Chatbot](https://github.com/Bhuvanesh0733/Fitness-Guide-chatbot-website)** | Conversational fitness & nutrition advisor powered by a locally-hosted LLM via Ollama — offline usage, no API cost, multi-turn conversations. | Python, Ollama, JavaScript |
-| **[URL Shortener](https://github.com/Bhuvanesh0733/URL-shortener)** | Lightweight, clean URL-shortening service with hash-based redirects and basic click tracking. | Flask, SQLite, HTML/CSS |
+</div>
 
 <br/>
 
-## GitHub Stats
+### 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+**🧠 [Candida Auris Risk Intelligence System](https://github.com/Bhuvanesh0733/Candida-auris-Risk-Intelligence-using-ML-)**
+<br/>
+A hybrid epidemiological–ML framework for ICU-level and individual infection risk assessment using LightGBM, with results delivered via a Flutter dashboard.
+<br/>
+`Python` `LightGBM` `Flutter`
+
+</td>
+<td width="50%">
+
+**🏭 [Factory Reallocation & Shipping Optimization](https://github.com/Bhuvanesh0733/Factory-Reallocation-Shipping-Optimization-Recommendation-System)**
+<br/>
+AI-powered system predicting shipping lead times, simulating factory reassignment scenarios, and clustering distribution patterns for a real distributor.
+<br/>
+`Python` `Machine Learning`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**✍️ [Cognitive Load Detection via Handwriting](https://github.com/Bhuvanesh0733/Graphology-Inspired-Cognitive-Load-Estimation-System)**
+<br/>
+Detects cognitive load (Low/Medium/High) from handwriting images using 15 graphological features extracted with OpenCV, classified via XGBoost, deployed as a Flask app.
+<br/>
+`Python` `OpenCV` `XGBoost` `Flask`
+
+</td>
+<td width="50%">
+
+**🛡️ [Network Intrusion Detection System](https://github.com/Bhuvanesh0733/Machine-Learning-Based-Real-Time-Network-Intrusion-Detection-System)**
+<br/>
+Real-time ML pipeline classifying live network traffic as benign or malicious, with a dashboard visualizing traffic patterns and model metrics.
+<br/>
+`Python` `Scikit-learn` `Data Viz`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**💪 [Fitness Guide Chatbot](https://github.com/Bhuvanesh0733/Fitness-Guide-chatbot-website)**
+<br/>
+A conversational fitness & nutrition advisor powered by a locally-hosted LLM via Ollama — offline usage, no API cost, multi-turn conversations.
+<br/>
+`Python` `Ollama` `JavaScript`
+
+</td>
+<td width="50%">
+
+**🔗 [URL Shortener](https://github.com/Bhuvanesh0733/URL-shortener)**
+<br/>
+A lightweight, clean URL-shortening service with hash-based redirects and basic click tracking.
+<br/>
+`Flask` `SQLite` `HTML/CSS`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+### 📊 GitHub Stats
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Bhuvanesh0733&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhuvanesh0733&theme=tokyonight&hide_border=true" width="48%"/>
+</div>
+
+<div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhuvanesh0733&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
 </div>
 
 <br/>
 
-## Achievements
+### 🐍 Contribution Snake
 
-- **Smart India Hackathon (SIH) 2025** — Participated at national level
-- **Smart Ideation Ideathon (SIH Pre-event)** — 3rd Place
-- **Kaggle ML Competition** — Predicting BPM of Songs (regression, dimensionality reduction)
-- **B.A.S.H 8.0** — Statistela Data Analytics Competition
+<div align="center">
+<img src="https://raw.githubusercontent.com/Bhuvanesh0733/Bhuvanesh0733/output/github-contribution-grid-snake.svg" width="100%"/>
+</div>
 
 <br/>
 
-## Contact
+### 🏆 Competitions & Achievements
 
-📧 **[bhuvanesh5407@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=bhuvanesh5407@gmail.com)** &nbsp;|&nbsp; 💼 **[LinkedIn](https://linkedin.com/in/bhuvanesh-a-16321b320)** &nbsp;|&nbsp; 🌐 **[Portfolio](https://bhuvanesh0733.github.io/Portfolio/)**
+- 🎯 **Smart India Hackathon (SIH) 2025** — Participated at national level
+- 🥉 **Smart Ideation Ideathon (SIH Pre-event)** — 3rd Place
+- 📊 **Kaggle ML Competition** — Predicting BPM of Songs (regression, dimensionality reduction)
+- 📈 **B.A.S.H 8.0** — Statistela Data Analytics Competition
 
 <br/>
 
@@ -79,5 +151,4 @@ I'm an MSc Artificial Intelligence & Machine Learning student based in Coimbator
 ![Profile Views](https://komarev.com/ghpvc/?username=Bhuvanesh0733&color=764ABA&style=for-the-badge)
 
 </div>
-
 
